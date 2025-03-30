@@ -145,5 +145,4 @@ Or open **Activity Monitor → GPU History** to see the GPU load.
 - **Reduce batch sizes** if memory is insufficient.
 - If your model is too large, **consider training on CPU or a cloud GPU**.
 
-🔹 *Need help setting up? Feel free to reach out!* 🚀
 
