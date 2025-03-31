@@ -1,4 +1,4 @@
-# 🚀 Running Machine Learning on an Intel Mac GPU (AMD Radeon Pro 4GB)
+# 🚀 Machine Learning on an Intel Mac GPU (AMD Radeon Pro 4GB)
 
 ## 🛠️ Overview
 This guide walks you through setting up **TensorFlow** and **PyTorch** to run machine learning on an **Intel Mac with an AMD Radeon Pro GPU** using **Metal Performance Shaders (MPS)**.
