@@ -139,7 +139,7 @@ Or open **Activity Monitor → GPU History** to see the GPU load.
 ---
 
 ## 💡 Conclusion
-✅ **YES!** You can run ML on an **AMD Radeon Pro (4GB) GPU** using **Metal (MPS)**.
+✅ **YES!** You can run ML on an **AMD Radeon Pro GPU** using **Metal (MPS)**.
 - For **best performance**, use **TensorFlow-Metal**.
 - **PyTorch Metal support is still experimental**.
 - **Reduce batch sizes** if memory is insufficient.
